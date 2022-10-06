@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168756148471",
+    "project_id": "vets-app-cacbe",
+    "storage_bucket": "vets-app-cacbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168756148471:android:4ac1079dc26fe7b05f3bf2",
+        "android_client_info": {
+          "package_name": "com.example.vets_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168756148471-gktaaskjqsrde18sri8svtvur7ho9v0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7dhgqk7Iwzq_Z5lkbNPvanFeAsPfJRKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168756148471-gktaaskjqsrde18sri8svtvur7ho9v0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

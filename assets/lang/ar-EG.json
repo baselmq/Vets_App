@@ -1,0 +1,124 @@
+{
+
+    "welcomeBack": "أهلا وسهلا بك مرة أخرى",
+    "email": "البريد الالكتروني",
+    "forgotPassword": "هل نسيت كلمة المرور",
+    "login": "تسجيل الدخول",
+    "dontHaveAnAccount": "ليس لديك حساب؟ ",
+    "Register":"سجل",
+
+    "hello":"مرحبا",
+    "haveANiceDay":"أسعد الله يومك",
+    "bookingNow":"طلبات الحجز",
+    "thereIsNoBookingNow":"لا يوجد طلبات حجز",
+    "upcomingConsultation":"الاستشارة القادمة",
+    "upcoming": "القادمة",
+
+    "noConsultationComing":"لا توجد استشارة قادمة ",
+
+    "completeProfile":"الملف الشخصي الكامل",
+    "description":"الوصف",
+    "chooseWorkingDays":"اختر أيام العمل",
+    "from":"من",
+    "until":"حتى",
+    "next":"استمر",
+
+    "firstName":"الاسم الاول",
+    "lastName":"الاسم الاخير",
+    "phone":"الهاتف",
+    "location":"الموقع",
+    "send":"ارسال",
+
+    "registerAccount":"تسجيل حساب",
+    "password":"كلمة المرور",
+    "confirmPassword":"تأكيد كلمة المرور",
+    "user":"المستخدم",
+    "vet":"دكتور بيطري",
+    "haveAnAccount?":"لديك حساب",
+
+
+    "selectDayAndDate":"حدد اليوم والتاريخ",
+    "selectTime":"حدد الوقت",
+    "selectADate":"اختر التاريخ",
+    "bookNow":"احجز الآن",
+
+    "ratingAndReviews":"التقييم والمراجعات",
+    "reviewsArePublic":"المراجعات عامة وتتضمن معلومات\n حسابك وجهازك",
+    "describeYourExperience":"وصف تجربتك (اختياري)",
+    "post":"نشر",
+
+    "reviews":"المراجعات",
+    "rating":"تقييم",
+
+    "doctors":"الاطباء",
+    "all":"الكل",
+    "amman":"عمان",
+    "available":"موجود في العيادة",
+    "notAvailable": "غير موجود في العيادة",
+
+
+    "myVets":"الاطباء البيطريون",
+    "subText":"نص فرعي",
+    "addFavorite":"اضافة الى المفضلة",
+    "myPets":"حيواناتي الأليفة",
+
+    "reject":"رفض",
+    "accept":"موافقة",
+
+    "myAccount":"حسابي",
+    "settings":"الاعدادات",
+    "helpCenter":"مركز المساعدة",
+    "logout":"تسجيل خروج",
+
+    "appointments":"المواعيد",
+    "noAppointments":"لا يوجد مواعيد",
+    "selectLanguage": "اختار اللغة",
+    "themes": "الثيمات",
+    "light": "فاتح",
+    "dark": "داكن",
+    "language": "اللغة",
+    "english": "الانجليزية",
+    "arabic": "العربية",
+    "cancel": "الغاء",
+    "haveCanWeHelp": "هل يمكننا المساعدة؟",
+    "pleaseSelectDate": "الرجاء تحديد تاريخ",
+    "pleaseSelectTime": "الرجاء تحديد الوقت",
+    "successfullyBooked": "تم الحجز بنجاح",
+    "closed": "مغلق",
+    "sat": "السبت",
+    "sun": "الاحد",
+    "mon": "الاثنين",
+    "tue": "الثلاثاء",
+    "wed": "الاربعاء",
+    "thu": "الخميس",
+    "fri": "الجمعة",
+    "thereAreNoDays": "لا يوجد ايام",
+    "done": "تم التقييم",
+    "pleaseRate": "يرجى التقييم",
+    "ok": "موافق"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+}

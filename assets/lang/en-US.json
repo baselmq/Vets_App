@@ -1,0 +1,108 @@
+{
+  
+    "welcomeBack": "Welcome Back",
+    "email": "Email",
+    "forgotPassword": "Forgot Password",
+    "login": "Login",
+    "dontHaveAnAccount": "don't Have An Account",
+    "Register": "Register",
+
+    "hello": "Hello",
+    "haveANiceDay": "Have A Nice Day",
+    "bookingNow": "Booking Now",
+    "thereIsNoBookingNow": "There Is No Booking Now",
+    "upcomingConsultation": "Upcoming Consultation",
+    "upcoming": "Upcoming",
+    "noConsultationComing": "No Consultation Coming",
+
+    "completeProfile": "Complete Profile",
+    "description": "Description",
+    "chooseWorkingDays": "Choose Working Days",
+    "from": "From",
+    "until": "Until",
+    "next": "Continue",
+
+    "firstName": "FirstName",
+    "lastName": "LastName",
+    "phone": "Phone",
+    "location": "Location",
+    "send": "Send",
+
+
+    "registerAccount": "Register Account",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "user": "User",
+    "vet": "Vet",
+    "haveAnAccount": "Have An Account",
+
+
+    "selectDayAndDate": "Select Day And Date",
+    "selectTime": "Select Time",
+    "selectADate": "Select A Date",
+    "bookNow": "BookNow",
+
+
+    "ratingAndReviews": "Rating And Reviews",
+    "reviewsArePublic": "Reviews are public and include\n your account and device info.",
+    "describeYourExperience": "Describe Your Experience (Optional)",
+    "post": "Post",
+
+
+    "reviews": "Reviews",
+    "rating": "Rating",
+
+
+    "doctors": "Doctors",
+    "all": "All",
+    "amman": "Amman",
+    "available": "Available In The Clinic",
+    "notAvailable": "Not available in the clinic",
+
+
+    "myVets": "My Vets",
+    "subText": "Sub Text",
+    "addFavorite": "AddFavorite",
+    "myPets": "My Pets",
+
+
+    "reject": "Reject",
+    "accept": "Accept",
+    "myAccount": "My Account",
+    "settings": "Settings",
+    "helpCenter": "Help Center",
+    "logout": "Logout",
+    "appointments": "Appointments",
+    "noAppointments": "There Are No Appointments",
+    "selectLanguage": "Select language",
+    "themes": "Themes",
+    "light": "Light",
+    "language": "Language",
+    "dark": "Dark",
+    "english": "English",
+    "arabic": "Arabic",
+    "cancel": "Cancel",
+    "pleaseSelectDate": "Please select a date",
+    "pleaseSelectTime": "Please select the time",
+    "successfullyBooked": "Successfully booked",
+    "closed": "Closed",
+    "sat": "Sat",
+    "sun": "Sun",
+    "mon": "Mon",
+    "tue": "Tue",
+    "wed": "Wed",
+    "thu": "Thu",
+    "fri": "Fri",
+    "thereAreNoDays": "There are no days",
+    "done": "Done",
+    "pleaseRate": "Please rate",
+    "ok": "Ok"
+
+
+
+
+
+
+
+
+}
